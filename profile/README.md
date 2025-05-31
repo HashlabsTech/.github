@@ -47,7 +47,7 @@ Here are a few things we're currently tinkering with:
 We're always open to connecting with fellow developers, designer, enthusiasts, and anyone interested in our journey. Feel free to reach out!
 
 * hashlabs.tech@gmail.com
-* [Mention if you have a website or other online presence]
+* https://hashlabstech.github.io/
 
 <br>
 
