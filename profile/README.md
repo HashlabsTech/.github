@@ -10,8 +10,9 @@
 </p>
 
 ---
+
 <br>
-Hello there! We're **Hashlabs Tech**, just two friends building cool stuff. Powered by tea, tutorials, and a sprinkle of AI on a mission to turn ideas into awesome applications.
+Hello there! We're just two friends on a mission to turn ideas into awesome apps. Powered by tea, tutorials, and a sprinkle of AI.
  
 <br>
 <br>
