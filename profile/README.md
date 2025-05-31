@@ -5,14 +5,13 @@
   </a>
   <h3 align="center">Hashlabs Tech</h3>
   <p align="center">
-    Just two friends building cool stuff. Powered by tea, tutorials, and a sprinkle of AI.
+    Building Cool Stuffs
   </p>
 </p>
 
 ---
 <br>
-
-👋 Hello there! We're **Hashlabs Tech**, a small team of two passionate friends on a mission to turn ideas into awesome applications.
+Hello there! We're **Hashlabs Tech**, just two friends building cool stuff. Powered by tea, tutorials, and a sprinkle of AI on a mission to turn ideas into awesome applications.
  
 <br>
 
