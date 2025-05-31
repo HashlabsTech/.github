@@ -14,6 +14,7 @@
 Hello there! We're **Hashlabs Tech**, just two friends building cool stuff. Powered by tea, tutorials, and a sprinkle of AI on a mission to turn ideas into awesome applications.
  
 <br>
+<br>
 
 ## 🛠️ What We're Up To
 
@@ -50,6 +51,3 @@ We're always open to connecting with fellow developers, designer, enthusiasts, a
 <br>
 
 Stay tuned for more cool stuff coming your way from Hashlabs Tech!
-
-
----
