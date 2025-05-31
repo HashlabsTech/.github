@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/Hashlabs-Tech">
-    <img src="https://avatars.githubusercontent.com/u/HashlabsTech?s=200&v=4" alt="Hashlabs Tech Logo" width="100" height="100">
+    <img src="https://avatars.githubusercontent.com/u/167700982?s=200&v=4" alt="Hashlabs Tech Logo" width="100" height="100">
   </a>
   <h3 align="center">Hashlabs Tech</h3>
   <p align="center">
