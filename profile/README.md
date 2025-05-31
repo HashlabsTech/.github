@@ -5,7 +5,7 @@
   </a>
   <h3 align="center">Hashlabs Tech</h3>
   <p align="center">
-    Building Cool Stuffs
+    Brewing Awesome Apps
   </p>
 </p>
 
