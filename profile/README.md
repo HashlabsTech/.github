@@ -4,7 +4,7 @@
   </a>
   <h3 align="center">Hashlabs Tech</h3>
   <p align="center">
-    Just two friends building cool stuff. Powered by tea, tutorials, and a sprinkle of AI. ☕💻✨
+    Just two friends building cool stuff. Powered by tea, tutorials, and a sprinkle of AI.
   </p>
 </p>
 
@@ -12,12 +12,9 @@
 
 ---
 
-
-
 👋 Hello there! We're **Hashlabs Tech**, a small team of two passionate friends on a mission to turn ideas into awesome applications.
-
-
-
+ 
+ <br>
 
 ## 🛠️ What We're Up To
 
